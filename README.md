@@ -1,0 +1,1 @@
+Este repositorio contiene la implementación en MATLAB de un sistema de transformación de coordenadas aplicable a la robótica móvil. El objetivo principal es generar el mapeo de coordenadas desde un marco de referencia global (inercial) hacia el marco de referencia local de un robot, y comprobar su validez mediante el mapeo inverso.
